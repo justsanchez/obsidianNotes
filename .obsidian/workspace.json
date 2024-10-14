@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec4bfaeead3f653",
+        "id": "bcf28dbaa1b3f821",
         "type": "tabs",
         "children": [
           {
-            "id": "54d640aae69f5dbc",
+            "id": "cc43acd8c279b8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Index/001 React/Writing React.md",
+                "file": "Notes/React/03 Props And State/007 Props.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f719f526c901e819",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Index/001 React/Writing React.md",
+                "file": "Notes/React/03 Props And State/007 Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Index/001 React/Writing React.md",
+                "file": "Notes/React/03 Props And State/007 Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Index/001 React/Writing React.md"
+                "file": "Notes/React/03 Props And State/007 Props.md"
               }
             }
           }
@@ -151,21 +143,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "54d640aae69f5dbc",
+  "active": "cc43acd8c279b8ce",
   "lastOpenFiles": [
+    "Notes/React/03 Props And State/Untitled.md",
+    "Notes/React/03 Props And State/007 Props.md",
+    "Notes/001 Learning Objectives.md",
+    "Notes/React/02 JSX and Components/006 Components.md",
+    "Templates/React Templete.md",
+    "Templates",
+    "Notes/React/03 Props And State",
+    "Notes/React/02 JSX and Components/004 JSX & Conditional JSX.md",
+    "Notes/React/01 React Basics/003 Building Blocks.md",
+    "Notes/React/01 React Basics/002 Writing React.md",
+    "Notes/React/01 React Basics/001 React.md",
+    "Notes/React/02 JSX and Components/005 Attributes & Names.md",
+    "Notes/AWS/001 AWS.md",
+    "Notes/AWS",
+    "Canvas.canvas",
+    "Attachments/Pasted image 20241012203614.png",
+    "Notes/React/02 JSX and Components",
+    "Untitled 1.md",
+    "n.md",
+    "Notes/React/01 React Basics",
     "README.md",
-    "001 Index/001 Index.md",
-    "001 Index/001 React/Writing React.md",
-    "001 Index/001 React/React Index.md",
+    "google.com.md",
     "Daily Notes/2024-10-12.md",
-    "001 Index/001 React.md",
-    "001 Index/001 React",
+    "Notes/React",
     "001 Index/untitled folder",
     "Daily Notes/2024-10-07.md",
-    "001 Index",
+    "Notes",
     "Daily Notes",
     "Attachments"
   ]

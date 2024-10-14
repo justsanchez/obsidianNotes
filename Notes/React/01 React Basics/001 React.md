@@ -1,15 +1,17 @@
 ## The Rebirth
 
-tags: #react
+Links: 
+Tags: #react
+
 
 Open-sourced in 2013
 Initially, a small team at Facebook created React (For their newsfeed feature)
 
-Mentioned followers of using react include:
+Mentioned companies of using react include:
 - Netflix
 - Airbnb
 
-React is a javascript framework used for building websites with reusable components
+**React** is a javascript framework used for building websites with reusable components
 
 Some useful Features
 - Includes JavaScript Syntax Extension (`JSX`)
@@ -76,21 +78,4 @@ const root = createRoot(container);
 
 root.render(<App />);
 
-```
-
-
-When we import `React` from the `"react"` library, we can use JavaScript Syntax Extension (or "JSX").
-
-When we import React from the "react" library, we can use Javascript Syntax Extension 
-
-In app.js
-
-```JS
-export default function App(){
-return (
-	<div>
-		<h1> Hello World </h1>
-	</div>
-	)
-}
 ```

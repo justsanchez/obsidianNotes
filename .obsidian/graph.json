@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 4749787
       }
+    },
+    {
+      "query": "tag:#aws ",
+      "color": {
+        "a": 1,
+        "rgb": 16758308
+      }
     }
   ],
   "collapse-display": false,
